@@ -5,7 +5,7 @@ date:   2016-04-06
 type: http://purl.org/dc/dcmitype/Dataset
 accessURL: http://datadryad.org/resource/doi:10.5061/dryad.8v2d0
 license: http://creativecommons.org/publicdomain/zero/1.0/, http://datadryad.org/pages/policies
-page: http://datadryad.org/resource/doi:10.5061/dryad.8v2d0
+ page: http://datadryad.org/resource/doi:10.5061/dryad.8v2d0
 categories: Alzheimer's, Mass spectrometry, Alzheimer’s disease, label-free quantitative, cerebrospinal fluid, mass data evaluation, Decyder software, Maxquant software, OpenMS software, PEAKS software, Sieve software
 index: biocaddie
 taxa:
