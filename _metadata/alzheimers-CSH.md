@@ -1,7 +1,7 @@
 ---
 layout: dataset
 title:  "Analysis of the cerebrospinal fluid proteome in Alzheimer's disease
-date:   2016-04-06
+date: 2016-04-06
 type: http://purl.org/dc/dcmitype/Dataset
 accessURL: http://datadryad.org/resource/doi:10.5061/dryad.8v2d0
 license: http://creativecommons.org/publicdomain/zero/1.0/, http://datadryad.org/pages/policies
